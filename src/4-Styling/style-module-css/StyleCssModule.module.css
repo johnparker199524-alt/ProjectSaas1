@@ -1,0 +1,13 @@
+h2 {
+  text-align: center;
+  color: red;
+  background-color: yellow;
+  padding: 50px;
+}
+
+p {
+  color: blue;
+  text-align: center;
+  font-size: x-large;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}

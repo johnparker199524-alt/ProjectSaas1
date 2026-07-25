@@ -1,0 +1,17 @@
+h3 {
+  color: darkorange;
+  text-align: center;
+  background-color: yellow;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 5%;
+  font-size: medium;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.add {
+  color: deeppink;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: lighter;
+  font-size: medium;
+}

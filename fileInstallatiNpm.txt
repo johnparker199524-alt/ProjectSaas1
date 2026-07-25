@@ -1,0 +1,6 @@
+installazione delle dipendency react
+-> npm i axios
+-> npm i @types/react-router
+
+-> npm i @types/react-router-dom
+-> npm install react-router-dom

@@ -1,0 +1,14 @@
+Frontend: Landing Page (Servizi, Skill, Progetti), 
+Modal/Pagina di Login e Registrazione, e una Dashboard 
+Utente accessibile solo dopo l'autenticazione.
+
+Integrazione API: Integrazione con l'API gratuita 
+di JSONPlaceholder (o OpenWeatherMap) per mostrare
+ dati dinamici nella Dashboard
+  (es. stato dei server / widget meteo / lista attività).
+
+Sicurezza: Protezione delle rotte
+ (Protected Routes) e Regole di Sicurezza di Firebase Firestore.
+
+Deploy Gratuito: Guida passo-passo
+ per il hosting su Vercel o Firebase Hosting.

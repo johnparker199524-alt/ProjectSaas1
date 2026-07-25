@@ -1,0 +1,15 @@
+adesso sei uno Svillupatore web junior e devi fare un saas in react ,
+ bootstrap firebase . devi tennere conto della sicurezza il saas deve
+  presentare una pagina che mostra servizi di uno svillupatore web e che
+   presenta le tecnologie che conosce e progetti che puo realizzare il tile 
+   deve essere simplice e intuitivo . il saas deve avere un login quando
+    l'utente sceglie un progetto  deve registrasi e ricevere un feedback
+     che conferma che ha inviato genera le pagine e passagi da seguire
+      per assemblare tutti componenti il codice generato deve essere
+       comentato in modo che posso capire e potere riprodure lo progetto
+        basandosi sulla tua logica  poi dovrai mostrarmi in un file
+         come mettere il saas online gratuitamente e fammi che pire tutte
+          le interface scelto .infine dopo la registrazione per commandare un 
+          servizio l'utente deve avere una dashboard preferisco che trovi un api da
+           integrare e indicammi bene come integrare e devi mostrarmi bene
+            l'organizzazione dei file nel loro cartelle es : cartella per props ,model 

@@ -1,0 +1,30 @@
+my-dev-saas/
+├── public/
+├── src/
+│   ├── assets/             # Immagini, icone, logo
+│   ├── components/         # Componenti UI riutilizzabili
+│   │   ├── Navbar.jsx
+│   │   ├── Footer.jsx
+│   │   ├── ServiceCard.jsx
+│   │   ├── ProjectCard.jsx
+│   │   └── ProtectedRoute.jsx # Wrapper per rotte sicure
+│   ├── context/            # Context per lo stato globale (Auth)
+│   │   └── AuthContext.jsx
+│   ├── firebase/           # Configurazione Firebase e SDK
+│   │   └── firebaseConfig.js
+│   ├── models/             # Modelli dati / Tipi (strutture dati JS)
+│   │   └── ProjectModel.js
+│   ├── pages/              # Pagine principali dell'applicazione
+│   │   ├── Home.jsx        # Landing page (Servizi, Tech, Progetti)
+│   │   ├── Login.jsx       # Pagina Autenticazione
+│   │   ├── Register.jsx    # Pagina Registrazione
+│   │   └── Dashboard.jsx   # Dashboard riservata agli utenti autenticati
+│   ├── services/           # Chiamate ad API esterne
+│   │   └── apiService.js
+│   ├── App.jsx             # Configurazione delle rotte React Router
+│   ├── main.jsx            # Punto d'ingresso principale
+│   └── index.css           # Stili globali e personalizzazioni Bootstrap
+├── .env.local              # Variabili d'ambiente (CHIAVI FIREBASE - NON COMMITTARE)
+├── firebase.json           # Configurazione Firebase Hosting
+├── package.json
+└── vite.config.js

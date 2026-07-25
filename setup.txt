@@ -1,0 +1,8 @@
+# 1. Crea il progetto React con Vite
+npm create vite@latest my-dev-saas -- --template react
+
+# 2. Entra nella cartella
+cd my-dev-saas
+
+# 3. Installa le dipendenze principali (Firebase, Router, Bootstrap, Icons)
+npm install firebase react-router-dom bootstrap react-bootstrap bootstrap-icons axios
