@@ -29,7 +29,7 @@ const NavigationBar: React.FC = () => {
     >      <Container>
         <Navbar.Brand as={Link} to="/" className="fw-bold text-white d-flex align-items-center gap-2">
           <i className="bi bi-code-slash text-primary fs-4"></i>
-          <span>DevSaaS</span>
+          <span>DevSaaS <i style={{color:'orangered'}}>John</i> </span>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

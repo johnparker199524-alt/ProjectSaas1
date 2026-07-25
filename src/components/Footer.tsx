@@ -40,7 +40,7 @@ const Footer: React.FC = () => {
         {/* Copyright & Social */}
         <Col md={3} className="text-md-end">
           <div className="small text-primary">
-            &copy; {new Date().getFullYear()} John Moise DevSaaS Pro. Tutti i diritti riservati.
+            &copy; {new Date().getFullYear()} <i style={{color:'orangered'}}> John Moise </i> DevSaaS Pro. Tutti i diritti riservati.
           </div>
         </Col>
       </Row>
